@@ -148,3 +148,4 @@ I'm a researcher/ scientist with a passion for making complex ideas accessible t
 Outside of research, I'm all about staying active—whether running, swimming, or trying something new like bungee fly. Physical activity helps me maintain balance and creativity in both my professional and personal life.
 
 As teacher, and mentor, I enjoy guiding others through their academic journeys. I'm also deeply curious about psychology and how people think, learn, and connect. One day, I want to become a writer.
+---
