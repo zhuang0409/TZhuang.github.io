@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 庄童贺 Tonghe Zhuang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tonghe
+last_name: Zhuang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍹
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,131 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Vision and Computational Cognition of JLU-Giessen
+    url: https://hebartlab.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tonghezhuang@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zhuang0409
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tonghe-zhuang-8a350a266/?originalSubdomain=de
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=en&user=Sojbah0AAAAJ
+  - icon: 🎙
+    url: https://naoguo.github.io/beyond-top-journals/
+    url: https://naoguo.github.io/
 
 interests:
+  - Action
+  - Objects
+  - Semantic
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational models
+  - Computational cognitive neuroscience
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Cognitive neuroscience
+    institution: University of Regensburg, Germany
+    date_start: 2018-11-01
+    date_end: 2023-10-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on 'The Hierarchical Representation of Observed Actions: Evidence From Behavioral and Neuroimaging Studies'. Supervised by [Prof Angelika Lingnau](https://scholar.google.com/citations?user=upW0diMAAAAJ&hl=en).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://epub.uni-regensburg.de/55412/1/Tonghe_Zhuang09112023_submission_library.pdf'
+  - area: M.sc. Cognitive neuroscience
+    institution: Beijing Normal University
+    date_start: 2015-09-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Published an article on 'Disentangling representations of shape and action components in the tool network'.
+  - area: BSc Psychology
+    institution: Liaoning Normal University
+    date_start: 2011-09-01
+    date_end: 2015-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.75/4.0
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral researcher
+    company_name: JLU-Giessen
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-11-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python & Matlab
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: EEG/ fMRI
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Swimming
+        description: In the water, I find stillness. It’s the one place where my mind is calm and my body flows.
+        reason: ''
+        icon: 🏊 🤽 🤿
+      - name: Reading
+        description: Books shaped how I see the world when I was a child. Reading has always been my escape and inspiration—and one day, I hope to become an author myself, creating stories that move others the way books have moved me.
+        reason: ''
+        icon: 📖
+      - name: Body building (gym)
+        description: Bodybuilding has taught me to face myself fully—to accept my body not just as it is, but as something I can shape with strength and discipline.
+        reason: ''
+        icon: 💪
+      - name: Pole dance
+        description: I love the feeling of letting go during pole—when control fades and the body moves freely, guided by momentum and emotion.
+        reason: ''
+        icon: 💃
+      - name: Bungee Fly
+        description: Bungee Fly lets me defy gravity. Every jump is a reminder of what the body can do when it’s unchained.
+        reason: ''
+        icon: 🪁
+      - name: Running
+        description: I’m not a big fan of running—but I love running with friends. The company makes every step better. I run regularly on Saturday mornings.
+        reason: ''
+        icon: 🏃
 
 languages:
   - name: English
-    percent: 100
+    level: fluent
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    level: native
+  - name: German
+    level: baseic
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a researcher/ scientist with a passion for making complex ideas accessible to everyone. I love diving into research and translating it into clear, relatable language. Whether through teaching, mentoring, or my podcast, I strive to communicate science in ways that connect with people from all backgrounds.
+
+Outside of research, I'm all about staying active—whether running, swimming, or trying something new like bungee fly. Physical activity helps me maintain balance and creativity in both my professional and personal life.
+
+As teacher, and mentor, I enjoy guiding others through their academic journeys. I'm also deeply curious about psychology and how people think, learn, and connect. One day, I want to become a writer.
